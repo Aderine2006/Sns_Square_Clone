@@ -17,7 +17,7 @@ const pillars = [
         description: "Streamline operations with intelligent automation and real-time monitoring systems",
         color: "bg-[#EF4444]", // Red
         textColor: "text-white",
-        position: "left-[50%]",
+        position: "left-[49%]",
         side: "top"
     },
     {
@@ -26,7 +26,7 @@ const pillars = [
         description: "Seamlessly migrate and integrate data across platforms with zero downtime",
         color: "bg-[#14B8A6]", // Teal/Green
         textColor: "text-white",
-        position: "left-[72%]",
+        position: "left-[71%]",
         side: "right"
     }
 ];
