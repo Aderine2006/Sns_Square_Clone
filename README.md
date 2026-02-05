@@ -16,7 +16,7 @@ This project is a modern React application for the Global Capability Centre, bui
 
 - Vite
 - TypeScript
-- React
+- React,Next.js
 - shadcn-ui
 - Tailwind CSS
 
